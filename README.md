@@ -10,4 +10,4 @@ Draft blog post about chatGPT.
 ## Certifications
 Some online certificates.
 
-![Newsletter screenshot]()
+![Newsletter screenshot](assets/Newsletter_Keller5.png)
